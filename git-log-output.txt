@@ -1,0 +1,31 @@
+commit 28d80874d6a3d26dff9d69c7da2935fdd317ef56
+Author: Xaidyn Liranzo <xml@njit.edu>
+Date:   Fri Sep 19 22:33:22 2025 -0400
+
+    Revert "this is the second part of part 7"
+    
+    This reverts commit 6b130fe62ff122a69845d266ca74488619a0d93f.
+
+commit 6b130fe62ff122a69845d266ca74488619a0d93f
+Author: Xaidyn Liranzo <xml@njit.edu>
+Date:   Fri Sep 19 22:31:44 2025 -0400
+
+    this is the second part of part 7
+
+commit 5f1d9a4bc010a98a908cbe15931cacc370a2dc14
+Author: Xaidyn Liranzo <xml@njit.edu>
+Date:   Fri Sep 19 22:27:43 2025 -0400
+
+    this is the commit for part seven
+
+commit ff1e0f48a8f86c806c245346e9b182369c69c77a
+Author: Xaidyn Liranzo <xml@njit.edu>
+Date:   Thu Sep 18 12:32:36 2025 -0400
+
+    git commit for os_release
+
+commit 457a41c32bdd51f29c6c29ba9fa8a598ee12f9b9
+Author: Xaidyn Liranzo <xml@njit.edu>
+Date:   Thu Sep 18 12:28:22 2025 -0400
+
+    initial commit
